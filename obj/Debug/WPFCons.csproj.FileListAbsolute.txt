@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\WPFCons\bin\Debug\WPFCons.exe.config
+C:\Users\User\source\repos\WPFCons\bin\Debug\WPFCons.exe
+C:\Users\User\source\repos\WPFCons\bin\Debug\WPFCons.pdb
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WPFCons\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WPFCons\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons_MarkupCompile.cache
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons_MarkupCompile.lref
+C:\Users\User\source\repos\WPFCons\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.g.resources
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.Properties.Resources.resources
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.exe
+C:\Users\User\source\repos\WPFCons\obj\Debug\WPFCons.pdb
+C:\Users\User\Desktop\Проект по практике\WPFCons\bin\Debug\WPFCons.exe.config
+C:\Users\User\Desktop\Проект по практике\WPFCons\bin\Debug\WPFCons.exe
+C:\Users\User\Desktop\Проект по практике\WPFCons\bin\Debug\WPFCons.pdb
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons_MarkupCompile.cache
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons_MarkupCompile.lref
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons.g.resources
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons.Properties.Resources.resources
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons.exe
+C:\Users\User\Desktop\Проект по практике\WPFCons\obj\Debug\WPFCons.pdb
